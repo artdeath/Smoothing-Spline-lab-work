@@ -1,1 +1,1 @@
-# lab3
+# First-order smoothing spline
